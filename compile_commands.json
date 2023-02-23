@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/giorgostsorakos/Documents/C/ECS In C/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/clang  -I/opt/homebrew/Cellar/../include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wall -std=c17 -o CMakeFiles/main.dir/Users/giorgostsorakos/Documents/C/ECS_In_C/main.c.o -c \"/Users/giorgostsorakos/Documents/C/ECS In C/main.c\"",
+  "file": "/Users/giorgostsorakos/Documents/C/ECS In C/main.c"
+}
+]
